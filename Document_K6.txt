@@ -1,0 +1,11 @@
+Google Colab:
+https://colab.research.google.com/drive/1rbqRPOQ9RKaaLSFL4zyUegbHBDMuJfyy?usp=sharing
+
+Link GitHub:
+https://github.com/Noufall90/sentiment-analysis.git
+
+Dataset:
+https://drive.google.com/drive/folders/1Q0aoZh4lRWY4olrrikWBKpF0D6JQkfhm?usp=sharing
+- Label data manual
+- Kamus Bahasa
+
