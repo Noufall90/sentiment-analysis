@@ -1,5 +1,5 @@
 Google Colab:
-https://colab.research.google.com/drive/1BSKxVH5oF9CQSDriCSu4HrWAzSTOlgMz?usp=sharing
+https://colab.research.google.com/drive/10o4NZ0eoT7_wyVPP9C-6hteEwIaZmjwb?usp=sharing
 
 Link GitHub:
 https://github.com/Noufall90/sentiment-analysis.git
